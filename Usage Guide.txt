@@ -1,0 +1,13 @@
+STAT Final Project Submission Usage Guide
+
+- Report
+The final report was written in MS Word and has been submitted as a PDF for ease of use. The figures in the report are linked via bookmarks in-text, same applies to supplementary figures. There are several links in the report that point to websites and papers referenced while doing the project. If any of these don't work, please reach out to me for clarifications. 
+
+- Dataset
+I have uploaded the full dataset used (20,000+ points) as a CSV. If a different format is preferred, I can provide that as well. 
+
+- Code
+All the code has been uploaded as individual .py files as a compressed zip. If you would rather I upload them individually, please let me know. Keep in mind that for reproducability's sake, all the code is documented and if you run it, please remember to install all the packages used. This code was ran on a Fedora/Linux machine so if discrepancies exist in python or package versions please let me know and I can troubleshoot. 
+
+Thank you!
+Aryan Yadav

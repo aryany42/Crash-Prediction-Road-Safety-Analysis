@@ -11,3 +11,5 @@ Key Results: Alcohol-involved crashes had nearly three times the odds of higher 
 
 ## Conclusions
 Crash severity is driven by a combination of behavioral and environmental conditions. Crash locations are strongly clustered around the US-460/I-81 traffic corridor, the VT campus perimeter and Radford city limits.
+
+[Please reference the Usage Guide before accessing files]
